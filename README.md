@@ -9,6 +9,16 @@ A modern, feature-rich, and privacy-focused Android Input Method Editor (IME) fo
 
 ---
 
+## 🎥 Demo Video
+
+Here is a quick demonstration of the keyboard in action:
+
+<p align="center">
+  <video src="assets/screenshots/demo.mp4" width="320" controls muted autoplay loop></video>
+</p>
+
+---
+
 ## 📱 App Screenshots
 
 Here is a look at the application interface:
